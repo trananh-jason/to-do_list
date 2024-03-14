@@ -9,10 +9,10 @@ body {
     max-width: fit-content;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 30px;
+    border-radius: 5px;
     padding: 5px 10px 5px;
 }
 
 h1 {
-    color: #d7bfdc;
+    color: black;
 }
